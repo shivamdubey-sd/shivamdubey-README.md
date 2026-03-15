@@ -3,10 +3,9 @@
 Product Manager | AI/ML | SaaS | FinTech
 
 I build data-driven digital products and work on AI-powered product solutions.
-## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamdubey-sd&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamdubey-sd&layout=compact)
+
 ## Skills
 Product Strategy  
 AI / ML  
