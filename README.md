@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shivam Dubey
 
-Product Manager | AI/ML | SaaS | FinTech
+Product Manager | AI/ML | SaaS | FinTech | Edtech | Gaming
 
 I build data-driven digital products and work on AI-powered product solutions.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamdubey-sd&show_icons=true)
