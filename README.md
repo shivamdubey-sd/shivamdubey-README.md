@@ -20,5 +20,7 @@ Agile
 ![Product](https://img.shields.io/badge/Product-Management-purple)
 ## Connect with me
 Email: shivamdubey961@gmail.com
+
 LinkedIn :https://www.linkedin.com/in/shivamdubey-productmanager/
+
 Portfolio : https://shivamdubeyportfolio.lovable.app/
