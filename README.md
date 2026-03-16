@@ -21,6 +21,9 @@ I build data-driven digital products and work on AI-powered product solutions.
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-green)
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-yellow)
 ![Product Metrics](https://img.shields.io/badge/Product%20Metrics-lightgrey)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![React](https://img.shields.io/badge/React-61DAFB)
 
 ### AI & Technology
 ![AI](https://img.shields.io/badge/AI-black)
