@@ -11,9 +11,17 @@ I build data-driven digital products and work on AI-powered product solutions.
 ### Product Management
 ![Product Management](https://img.shields.io/badge/Product%20Management-blue)
 ![Product Strategy](https://img.shields.io/badge/Product%20Strategy-purple)
+![Product Discovery](https://img.shields.io/badge/Product%20Discovery-blueviolet)
+![Product Roadmaps](https://img.shields.io/badge/Product%20Roadmapping-lightblue)
 ![Agile](https://img.shields.io/badge/Agile-orange)
 ![Scrum](https://img.shields.io/badge/Scrum-red)
 ![OKRs](https://img.shields.io/badge/OKRs-green)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-grey)
+![User Research](https://img.shields.io/badge/User%20Research-yellow)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-lightgreen)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-teal)
+![Go-To-Market](https://img.shields.io/badge/Go--To--Market-blue)
+![Experimentation](https://img.shields.io/badge/Product%20Experimentation-purple)
 
 ### Analytics & Data
 ![SQL](https://img.shields.io/badge/SQL-orange)
